@@ -1,0 +1,4 @@
+streamlit==1.41.1
+mysql-connector-python
+pandas
+plotly
